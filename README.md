@@ -4,7 +4,7 @@ The goal of this challenge is to assess your problem solving ability when presen
 
 ## The Challenge
 
-This challenge consists of using multispectral satellite imagery to identify vegetation change in a forested region in Tanzania from 1993 to 2016.  In the data folder you will find two Landsat images, along with a GeoJSON defining the study area. Your task is to create a land cover classification visualizing the change between the two points in time. To keep it simple, your classification only needs to have the following four classes: 
+This challenge consists of using multispectral satellite imagery to identify vegetation change in a forested region in Tanzania from 1993 to 2016.  For the challenge you will be provided with two Landsat images and with a GeoJSON defining the study area. Your task is to create a land cover classification visualizing the change between the two points in time. To keep it simple, your classification only needs to have the following four classes: 
 
 Code / Value |  Land Cover Class       | Description
 ------------ | :---------------------- | :------------------------------------------------------
@@ -18,7 +18,7 @@ Using whatever methods available, visualize your results for the study area. You
 
 ## Resources
 
-- The 
+- The data for the challenge can be downloaded [here](https://drive.google.com/file/d/15o76pkpZwjYAenOMwazVs0Amvs7YdeLt/view?usp=sharing)
 - For more information on the images being used, go to the [USGS Landsat page](https://www.usgs.gov/faqs/what-are-best-landsat-spectral-bands-use-my-research?qt-news_science_products=0#) to see what bands are included in each image
 - Check out [Github](https://github.com/sacridini/Awesome-Geospatial#python) for a list of helpful of tools and open source packages you 
 - Ask us questions! Shoot us an email, or talk to us on [Discord](https://discord.gg/stujhkkhvk), if you need help.

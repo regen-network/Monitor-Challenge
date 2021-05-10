@@ -18,7 +18,7 @@ Using whatever methods available, visualize your results for the study area. You
 
 ## Resources
 
-There are many of solutions to this problem, and lots of tools to help you solve it! 
+- The 
 - For more information on the images being used, go to the [USGS Landsat page](https://www.usgs.gov/faqs/what-are-best-landsat-spectral-bands-use-my-research?qt-news_science_products=0#) to see what bands are included in each image
 - Check out [Github](https://github.com/sacridini/Awesome-Geospatial#python) for a list of helpful of tools and open source packages you 
 - Ask us questions! Shoot us an email, or talk to us on [Discord](https://discord.gg/stujhkkhvk), if you need help.

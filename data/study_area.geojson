@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "study_area_inproj",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.55198616747375, -10.057372372182394 ], [ 37.553706593373107, -9.663005797618531 ], [ 38.058355950349153, -9.664757752841748 ], [ 38.057235551091956, -10.059197232514961 ], [ 37.55198616747375, -10.057372372182394 ] ] ] } }
+]
+}
